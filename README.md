@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaedRNP
-- 👀 I’m interested in learning all I can
+- 👀 I’m interested in learning AI and game disign
 - 🌱 I’m currently learning Python and JS
-- 💞️ I’m looking to collaborate on gaming projects and web design
+- 💞️ I’m looking to collaborate on web aplications
 - 📫 How to reach me raedrnp10@gmail.com
 
 <!---
