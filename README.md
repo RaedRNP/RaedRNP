@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaedRNP
 - 👀 I’m interested in learning AI
-- 🌱 I’m currently learning Python and JS
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on web aplications
 - 📫 How to reach me raedrnp10@gmail.com
 
